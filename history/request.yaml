@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXBS-LJ03A-05-HPIESA301-streamed-echo_sounding
-last_request: '2022-01-21T02:07:50.820963Z'
+last_request: '2022-01-21T18:17:50.966609Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXBS-LJ03A-05-HPIESA301-streamed-echo_sounding/main/history/response.json
-status: success
+status: pending
